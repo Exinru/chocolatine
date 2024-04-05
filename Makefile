@@ -2,7 +2,7 @@
 ## EPITECH PROJECT, 2023
 ## Makefile
 ## File description:
-## makefile
+## makefile for robot
 ##
 
 CC=gcc
