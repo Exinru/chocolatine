@@ -6,7 +6,7 @@
 */
 
 #include "../include/my.h"
-//hello
+
 int first_encounter(char *str, char letter)
 {
     for (int i = 0; str[i] != '\0'; i++) {
